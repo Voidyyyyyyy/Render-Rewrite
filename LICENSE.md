@@ -8,6 +8,6 @@ Permission is granted to view, study, and learn from this code for educational p
 - Sell or commercially exploit this code.
 - Create derivative works or modified versions of this code for public distribution.
 
-You may not use any part of this project without explicit written permission without permission for the copyright holder.
+You may not use any part of this project without explicit written permission from the copyright holder.
 
 By using this code, you agree to these terms.
